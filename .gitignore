@@ -57,3 +57,6 @@ jspm_packages
 
 # webpack output dir
 dist
+
+# storybook
+storybook-static

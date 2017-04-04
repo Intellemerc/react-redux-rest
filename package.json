@@ -35,8 +35,6 @@
     "test": "jest",
     "lint": "eslint ./src/**/*.js ./stories/**/*.js",
     "test-cov": "jest --coverage",
-    "start": "webpack --config webpack.dev.config.js --watch",
-    "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "start": "webpack --config webpack.dev.config.js --watch"
   }
 }
